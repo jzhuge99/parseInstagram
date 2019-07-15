@@ -1,6 +1,6 @@
-# Project 3 - *parseInstagram*
+# Project 3 - *ParseInstagram*
 
-**NarseInstagram** is a photo sharing app using Parse as its backend.
+**ParseInstagram** is a photo sharing app using Parse as its backend.
 
 Time spent: **20** hours spent in total
 
